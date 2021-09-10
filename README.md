@@ -1,2 +1,2 @@
 # git-static
-Git static package
+Git static packages
